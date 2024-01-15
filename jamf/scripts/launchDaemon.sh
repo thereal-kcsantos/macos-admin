@@ -19,6 +19,10 @@
 # $7 isScriptIn = is this a script yes or no. defines which plist type will be used
 ####################################################
 
+################## Resources #######################
+# https://montysmacmusings.wordpress.com/2018/01/06/a-reusable-launchdemon-or-agent-creator-script/
+# https://github.com/PhantomPhixer/Phixits/blob/master/LaunchDaemon%20Creator/launchDaemon.sh
+
 ####################################################
 # Use at your own risk!
 ####################################################
